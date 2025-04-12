@@ -1,9 +1,8 @@
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/e74634d8-e5f0-43e8-ae4b-7b0576bb0771" /># EX01 Developing a Simple Webserver
-## Date:
+
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
-
+## Date: 12/04/20205
 ## DESIGN STEPS:
 ### Step 1: 
 HTML content creation.
